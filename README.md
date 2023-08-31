@@ -8,15 +8,19 @@ Welcome to the DataFusion DevBox repository! This guide will help you get starte
 Before you begin, make sure you have the following installed on your system:
 
 Docker: https://docs.docker.com/get-docker/
-
+Docker Compose:https://docs.docker.com/compose/install/
 Git: https://git-scm.com/downloads
 
 ## Getting Started
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/DataFusion_DevBox.git
-   cd DataFusion_DevBox
+   git clone https://github.com/chandru-git30/DataFusion-DevBox.git
+   cd DataFusion_DevBox/DevBox
+   ```
+2. **Run the Docker Container:**
+   ```bash
+   docker-compose up
    ```
 
 
