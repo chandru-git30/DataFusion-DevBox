@@ -48,3 +48,17 @@ docker stop <your_devbox_instance>
 docker rm <your_devbox_instance>
 ```
 - Explore and experiment with the different technologies to supercharge your big data projects!
+
+## Working
+- Once you composed the docker and executed port 8080 you will prompt to a code server like this
+
+![1](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/f467caf1-a596-4e9d-a032-59f177d0ecb2)
+
+
+
+
+
+
+
+
+  
