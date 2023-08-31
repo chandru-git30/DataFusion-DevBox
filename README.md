@@ -38,3 +38,13 @@ Before you begin, make sure you have the following installed on your system:
 - Kafka
 - Flume
 - Zookeeper
+- Jupyter Extensions
+
+## Tips and Notes
+- You can customize the Docker image by modifying the Dockerfile.
+- Make sure to stop and remove the container when you need to recompose the image:
+```bash
+docker stop <your_devbox_instance>
+docker rm <your_devbox_instance>
+```bash
+- Explore and experiment with the different technologies to supercharge your big data projects!
