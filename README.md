@@ -23,5 +23,5 @@ Before you begin, make sure you have the following installed on your system:
    docker-compose up
    ```
 3. **Go to Browser:**
-   execute⏰
+   **Execute**:localhost:8080
 
