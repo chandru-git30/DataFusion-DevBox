@@ -26,4 +26,15 @@ Before you begin, make sure you have the following installed on your system:
    ```bash
    http://localhost:8080
    ```
-
+## Included Technologies
+- Java
+- Python
+- Hadoop
+- Hbase
+- Hive
+- Sqoop
+- Mysql
+- Spark
+- Kafka
+- Flume
+- Zookeeper
