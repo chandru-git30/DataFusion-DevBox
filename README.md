@@ -8,5 +8,6 @@ Welcome to the DataFusion DevBox repository! This guide will help you get starte
 Before you begin, make sure you have the following installed on your system:
 
 Docker: https://docs.docker.com/get-docker/
+
 Git: Installation Guide
 
