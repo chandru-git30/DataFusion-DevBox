@@ -24,6 +24,6 @@ Before you begin, make sure you have the following installed on your system:
    ```
 3. **Go to Browser:**
    ```bash
-   localhost:8080
+   http://localhost:8080
    ```
 
