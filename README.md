@@ -46,5 +46,5 @@ Before you begin, make sure you have the following installed on your system:
 ```bash
 docker stop <your_devbox_instance>
 docker rm <your_devbox_instance>
-```bash
+```
 - Explore and experiment with the different technologies to supercharge your big data projects!
