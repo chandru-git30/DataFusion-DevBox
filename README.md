@@ -23,5 +23,7 @@ Before you begin, make sure you have the following installed on your system:
    docker-compose up
    ```
 3. **Go to Browser:**
-   **Execute**:localhost:8080
+   ```bash
+   localhost:8080
+   ```
 
