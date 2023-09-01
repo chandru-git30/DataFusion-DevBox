@@ -54,11 +54,11 @@ docker rm <your_devbox_instance>
 
 ![1](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/f467caf1-a596-4e9d-a032-59f177d0ecb2)
 
-- Execute jps in terminal to get the name of the started daemons
+- Execute *jps* in terminal to get the name of the started daemons
 
 ![2](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/56d858e0-1a8a-4ece-9e3b-fcd2a80ec095)
  
-- Get python interactive mode by executing <python> in terminal
+- Get python interactive mode by executing *python* in terminal
 
 ![3](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/e3c61e38-a81c-40d3-9cfa-43f840e4f1ef)
 
