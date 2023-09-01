@@ -102,3 +102,11 @@ docker rm <your_devbox_instance>
 
 ![13](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/787c753b-a353-4d5a-bd88-f2f8c6d985da)
 
+- Execute ***spark-shell*** in terminal to access scala shell of spark
+
+![14](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/3263aa52-99f4-4418-a049-7fe4c66498ce)
+
+- Execute ***pyspark*** in terminal to access pyspark shell
+
+![15](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/a299daa7-2e7b-42ae-a0ca-7643692b4fd1)
+
