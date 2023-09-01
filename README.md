@@ -54,7 +54,7 @@ docker rm <your_devbox_instance>
 
 ![1](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/f467caf1-a596-4e9d-a032-59f177d0ecb2)
 
-- Execute <jps> in terminal to get the name of the started daemons
+- Execute jps in terminal to get the name of the started daemons
 
 ![2](https://github.com/chandru-git30/DataFusion-DevBox/assets/82560086/56d858e0-1a8a-4ece-9e3b-fcd2a80ec095)
  
