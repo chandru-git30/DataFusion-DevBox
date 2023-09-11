@@ -1,0 +1,2 @@
+export SQOOP_CLASSPATH=$SQOOP_HOME/lib
+export HIVE_CONF_DIR=$HIVE_HOME/conf

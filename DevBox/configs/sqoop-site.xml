@@ -1,0 +1,38 @@
+<configuration>
+
+  <property>
+    <name>sqoop.hive.import</name>
+    <value>true</value>
+  </property>
+
+  <property>
+    <name>javax.jdo.option.ConnectionURL</name>
+    <value>jdbc:mysql://mysql:3306/metastore?createDatabaseIfNotExist=true</value>
+  </property>
+
+
+  <property>
+    <name>javax.jdo.option.ConnectionDriverName</name>
+    <value>com.mysql.cj.jdbc.Driver</value>
+  </property>
+
+
+  <property>
+    <name>javax.jdo.option.ConnectionUserName</name>
+    <value>coder</value>
+  </property>
+
+
+  <property>
+    <name>javax.jdo.option.ConnectionPassword</name>
+    <value>coderpassword</value>
+  </property>
+
+ 
+  <property>
+    <name>sqoop.hive.metastore.uris</name>
+    <value>thrift://localhost:9083</value>
+  </property>
+
+
+</configuration>
