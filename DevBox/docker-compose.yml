@@ -1,0 +1,32 @@
+version: "3.8"
+services:
+  coder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"    # Port mapping for code-server
+      - "9870:50070"    # HDFS NameNode
+      - "9864:50010"    # HDFS DataNode
+      - "8042:8042"    # YARN NodeManager
+      - "8088:8032"    # YARN ResourceManager 
+    volumes:
+      - /home/chandru/PC/NEO/DevBox/project:/home/coder/project
+    depends_on:
+      - mysql
+
+  mysql:
+    image: mysql:5.7  
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_USER: coder
+      MYSQL_PASSWORD: coderpassword
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    restart: always
+
+
+volumes:
+  mysql_data:
