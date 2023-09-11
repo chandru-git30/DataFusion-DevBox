@@ -26,6 +26,17 @@ Before you begin, make sure you have the following installed on your system:
    ```bash
    http://localhost:8080
    ```
+4. **Download Extensions:**
+   1.ms-python.python-2023.14.0
+   2.ms-python.vscode-pylance-2023.8.30
+   3.ms-toolsai.jupyter-2023.6.1101941928-linux-x64
+   4.ms-toolsai.jupyter-keymap-1.1.2
+   5.ms-toolsai.jupyter-renderers-1.0.17
+   6.ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+   7.ms-toolsai.vscode-jupyter-slideshow-0.1.5
+
+   Download the above extensions from browser or get it from vscode extensions from your local machine and place it in extensions folder
+   
 ## Included Technologies
 - Java
 - Python
