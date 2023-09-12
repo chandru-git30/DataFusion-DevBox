@@ -39,17 +39,17 @@ Before you begin, make sure you have the following installed on your system:
    
 ## Included Technologies
 - Java https://example.com/java-icon.png
-- Python ![Python Icon](https://example.com/python-icon.png)
-- Hadoop ![Hadoop Icon](https://example.com/hadoop-icon.png)
-- Hbase ![Hbase Icon](https://example.com/hbase-icon.png)
-- Hive ![Hive Icon](https://example.com/hive-icon.png)
-- Sqoop ![Sqoop Icon](https://example.com/sqoop-icon.png)
-- MySQL ![MySQL Icon](https://example.com/mysql-icon.png)
-- Spark ![Spark Icon](https://example.com/spark-icon.png)
-- Kafka ![Kafka Icon](https://example.com/kafka-icon.png)
-- Flume ![Flume Icon](https://example.com/flume-icon.png)
-- Zookeeper ![Zookeeper Icon](https://example.com/zookeeper-icon.png)
-- Jupyter Extensions ![Jupyter Extensions Icon](https://example.com/jupyter-icon.png)
+- Python 
+- Hadoop 
+- Hbase 
+- Hive 
+- Sqoop 
+- MySQL 
+- Spark 
+- Kafka 
+- Flume 
+- Zookeeper 
+- Jupyter Extensions 
 
 
 ## Tips and Notes
