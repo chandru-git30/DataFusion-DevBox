@@ -38,7 +38,7 @@ Before you begin, make sure you have the following installed on your system:
    Download the above extensions from browser or get it from vscode extensions from your local machine and place it in extensions folder
    
 ## Included Technologies
-- Java https://example.com/java-icon.png
+- Java 
 - Python 
 - Hadoop 
 - Hbase 
